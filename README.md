@@ -19,4 +19,3 @@ These are the projects I have put relatively more time and effort into.
 These are the projects I made just for fun or as proof-of-concept.
 * [Maze Maker](https://github.com/Nascity/Maze-Maker)
 * [Satellite Images to GIF](https://github.com/Nascity/Satellite-Images-to-GIF)
-* [BF Interpreter](https://github.com/Nascity/BF-interpreter) 🛑
