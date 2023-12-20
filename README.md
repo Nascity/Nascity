@@ -8,7 +8,7 @@ I am a developer from the Republic of Korea who is interested in operating syste
 ## Big projects
 These are the projects I have put relatively more time and effort into.
 * unnamedOS (May 2023 - Present)
-  * [unnamedOS16](https://github.com/Nascity/UnnamedOS16) 🛠️ (May 2023 - Est. Nov 2023)
+  * [unnamedOS16](https://github.com/Nascity/UnnamedOS16) (May 2023 - Nov 2023)
   * unnamedOS32
   * unnamedOS64
 * [DesktopIconLib](https://github.com/Nascity/DesktopIconLib) 🛑
