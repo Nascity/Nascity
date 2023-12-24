@@ -2,7 +2,7 @@
 Developer from the Republic of Korea who is interested in operating systems.
 
 # Academic Background
-* Undergraduate of Department of Physics, Kyeonghee University (Mar 2022)
+* Undergraduate of Department of Physics, Kyeonghee University (Mar 2022 - Feb 2023)
 * Undergraduate of Department of Computer Science, University of Seoul (Mar 2023 - present)
 
 # Programming Languages
