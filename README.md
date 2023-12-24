@@ -26,8 +26,8 @@ Planning to learn:
 ## Big Projects
 These are the projects I have put relatively more time and effort into.
 * uOS 🛠️ (May 2023 - present): A project to create an OS on intel 16 bit, 32 bit, 64 bit processor, consecutively.
-  * [unnamedOS16 (C, x86 asm)](https://github.com/Nascity/UnnamedOS16) --- May 2023 - Nov 2023
-  * uniqueOS32 (Rust, x86 asm?) 🛠️ --- Est. Jan 2024 - ?
+  * [unnamedOS16 (C, x86 asm)](https://github.com/Nascity/unnamedOS16) --- May 2023 - Nov 2023
+  * [uniqueOS32 (C, Rust?, x86 asm)](https://github.com/Nascity/unisonOS32) 🛠️ --- Dec 2023 - ?
   * u\[a-z]+OS64 --- ? - ?
 * NST-RAID (Dec 2023 - present): A project to implement RAID 5 with different types of storage devices.
 
