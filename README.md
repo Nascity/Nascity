@@ -6,6 +6,8 @@ Developer from the Republic of Korea who is interested in operating systems.
 * Undergraduate of Department of Computer Science, University of Seoul (Mar 2023 - present)
 
 # Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nascity&size_weight=0.5&count_weight=0.5)
+
 Can write code in:
 * ★★★★★ C
 * ★★★★☆ C#
