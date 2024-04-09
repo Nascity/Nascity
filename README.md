@@ -34,7 +34,6 @@ These are the projects I have put relatively more time and effort into.
 * uOS (May 2023 - Feb 2024): A project to create an OS on intel 16 bit, 32 bit, 64 bit processor, consecutively.
   * [unnamedOS16 (C, x86 asm)](https://github.com/Nascity/unnamedOS16) --- May 2023 - Nov 2023
   * unisonOS32 (C, x86 asm) 🛑 --- Dec 2023 - Feb 2024
-* [extOW (C)](https://github.com/Nascity/extOW) 🛠️ --- Feb 2024 - present
 
 ## Small Projects
 These are the projects I made just for fun or as proof-of-concept.
