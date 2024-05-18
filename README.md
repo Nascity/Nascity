@@ -42,4 +42,5 @@ These are the projects I made just for fun or as proof-of-concept.
 * [Maze Maker (C#)](https://github.com/Nascity/Maze-Maker)
 * [Picture to Braille Character (C)](https://github.com/Nascity/Picture-to-Braille-Character)
 * [Satellite Images to GIF (C#)](https://github.com/Nascity/Satellite-Images-to-GIF)
+* [SimpleSpreadSheet (Java)](https://github.com/Nascity/SimpleSpreadSheet)
 * [Winmine Hacks](https://github.com/Nascity/Winmine-Hack)
