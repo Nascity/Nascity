@@ -14,10 +14,10 @@ Developer from the Republic of Korea who is interested in operating systems.
 
 Can write code in:
 * ★★★★★ C
+* ★★★★★ C++
 * ★★★★☆ C#
+* ★★★★☆ JAVA
 * ★★★☆☆ x86 asm
-* ★★☆☆☆ C++
-* ★★☆☆☆ JAVA
 * ★★☆☆☆ Python
 * ★☆☆☆☆ Verilog
 * ★☆☆☆☆ VHDL
