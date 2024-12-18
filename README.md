@@ -1,8 +1,9 @@
 # Hi, I am Nascity
-Developer from the Republic of Korea who is interested in operating systems.
+Developer from the Republic of Korea who is interested in operating systems and network.
 
 # Interested in...
 * Operating system
+* Network (Layer 2-4)
 * Computation theory
 * Meteorology
 * Physics
@@ -35,7 +36,6 @@ These are the projects I have put relatively more time and effort into.
 * uOS (May 2023 - Feb 2024): A project to create an OS on intel 16 bit, 32 bit, 64 bit processor, consecutively.
   * [unnamedOS16 (C, x86 asm)](https://github.com/Nascity/unnamedOS16) --- May 2023 - Nov 2023
   * unisonOS32 (C, x86 asm) 🛑 --- Dec 2023 - Feb 2024
-* [NstLockGuard (Sep 2024 - )](https://github.com/Nascity/NstLockGuard): A kernel-mode driver for detecting and mitigating Windows deadlocks.
 
 ## Small Projects
 These are the projects I made just for fun or as proof-of-concept.
