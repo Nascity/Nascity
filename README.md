@@ -15,7 +15,7 @@ Can write code in:
 * ★★★★★ C++
 * ★★★★☆ C#
 * ★★★★☆ JAVA
-* ★★★☆☆ x86 asm
+* ★★★★☆ x86 asm
 * ★★☆☆☆ Python
 
 # Academic Background
@@ -34,7 +34,6 @@ These are the projects I have put relatively more time and effort into.
 * uOS (May 2023 - Feb 2024): A project to create an OS on intel 16 bit, 32 bit, 64 bit processor, consecutively.
   * [unnamedOS16 (C, x86 asm)](https://github.com/Nascity/unnamedOS16) --- May 2023 - Nov 2023
   * unisonOS32 (C, x86 asm) 🛑 --- Dec 2023 - Feb 2024
-* [NasPolS](https://github.com/UOS-DzPS/NasPolS-core) (Mar 2025 - ): A project to create a simple spellchecker for polish language.
 * [xv6-riscv-gui](https://github.com/UOS-DzPS/xv6-riscv-gui) (Apr 2025 - ): A project to implement GUI in xv6.
 
 ## Small Projects
